@@ -97,5 +97,3 @@ If you use this project in your research, please cite:
 - **LinkedIn**: [Charan Teja Gunisetty](https://www.linkedin.com/in/charantejagunisetty/)
 - **GitHub**: [charanteja25](https://github.com/charanteja25)
 
-## 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
